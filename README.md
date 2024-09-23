@@ -8,11 +8,32 @@ Darren Zou, Peter D'Angelo, Jack Zhang, Gene Park, and Joseph Chege
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder 1: Finn, friend of Peter
+
+#### Goals:
+- Ease of returning books
+- Clear dates for returning books/due dates for checked-out books
+- Ease of finding book locations
+- Reliable indicator of book availability
+
+#### Problems:
+- Difficulty finding books
+- Books Finn wants are often not available at the library
+- Frequently forgets to return books
+- Checking out books at the library is too much hassle
+
+### Stakeholder 2: Amber, friend of Joseph
+
+#### Goals/Needs/Desires:
+- A filtration system for the catalog
+- A list of currently checked-out books
+
+#### Problems/Frustrations:
+- Lack of personalization in the catalog (e.g., no account system or list of checked-out books)
 
 ## Product Vision Statement
 
-Our vision is to create a user-friendly library catalogue app that empowers users to effortlessly discover, access, and manage library resources, enhancing and community engagement.
+Our vision is to create a user-friendly library catalogue app that empowers users to effortlessly discover, access, and manage library resources, enhancing community engagement.
 
 ## User Requirements
 
@@ -34,17 +55,14 @@ Our vision is to create a user-friendly library catalogue app that empowers user
 
 "As someone who visits the library often, I want to be be able to sign in and out so that my experience is personalized for me."
 
-Peter D'Angelo and Joseph Cheng
-
 ## Activity Diagrams
 
-(image.png)(image-1.png)
-<img width="1099" alt="image" src="https://github.com/user-attachments/assets/047508a0-c668-4a36-8b96-cdd26a6365d3">
+<img width="1099" alt="image" src="image.png">
+<img width="1099" alt="image1" src="image1.png">
+<img width="1099" alt="image2" src="image2.png">
 
-Peter D'Angelo and Jack Zhang
 
 ## Clickable Prototype
 
-(https://www.figma.com/design/eUVBU7TmSrih3D7bQJ3RDx/Clickable-Prototype?node-id=0-1&t=YIr7W0VqBvckRiag-1)
+[Clickable Prototype](https://www.figma.com/design/eUVBU7TmSrih3D7bQJ3RDx/Clickable-Prototype?node-id=0-1&t=YIr7W0VqBvckRiag-1)
 
-Darren Zou and Gene Park
