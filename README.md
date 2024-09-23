@@ -37,19 +37,23 @@ Our vision is to create a user-friendly library catalogue app that empowers user
 
 ## User Requirements
 
-“As a person who checks out books often, I want an easy way to reserve a book for checkout so that I can get my book more quickly”
+"As a person who checks out books often, I want an easy way to reserve a book for checkout so that I can get my book more quickly”
 
-“As a person who enjoys browsing the library I want an easy way to find out where books I enjoy are so that I can browse more efficiently”
+“As a person who enjoys browsing the library I want an easy way to find out where books I enjoy are so that I can browse more efficiently” 
 
 “As a person who has trouble locating books, I want an easy way to find the location of books so that I can expedite my library visit.”
 
-“As a person who often goes to the library in search of a book, only to find that the book is already checked out, I want an easy way to reliably see if a book is in the library so that I waste less time on unnecessary library trips”
+“As a person who often goes to the library in search of a book, only to find that the book is already checked out, I want an easy way to reliably see if a book is in the library so that I waste less time on unnecessary library trips”  
+
+“As a person who often forgets to return books, I want an easy way to keep track of my book due dates so that I don’t rack up late fees”
 
 “As a person who often forgets to return books, I want an easy way to keep track of my book due dates so that I don’t rack up late fees”
 
 "As someone with difficulty with reading small screens, I want to search for books by image so that I can quickly find the books I'm looking for."
 
 "As someone who checks out a lot of books, I want to view a list of all the books I’ve currently checked out so that I can keep track of what I need to return and their due dates."
+
+"As someone who is very selective with reading material, I want to be able to be able to filter the library's catalog so that I can always find a book for a specific task."
 
 "As an avid reader, I want to view how long I've checked out my book for so that I can track my reading progress."
 
