@@ -39,7 +39,7 @@ Our vision is to create a user-friendly library catalogue app that empowers user
 
 “As a person who checks out books often, I want an easy way to reserve a book for checkout so that I can get my book more quickly”
 
-“As a person who enjoys browsing the library I want an easy way to find out where books I enjoy are so that I can browse more efficiently” <-I will make the uml diagram from this one"
+“As a person who enjoys browsing the library I want an easy way to find out where books I enjoy are so that I can browse more efficiently”
 
 “As a person who has trouble locating books, I want an easy way to find the location of books so that I can expedite my library visit.”
 
@@ -58,7 +58,6 @@ Our vision is to create a user-friendly library catalogue app that empowers user
 ## Activity Diagrams
 
 <img width="1099" alt="image" src="image.png">
-<img width="1099" alt="image1" src="image1.png">
 <img width="1099" alt="image2" src="image2.png">
 
 
