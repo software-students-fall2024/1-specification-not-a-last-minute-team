@@ -17,10 +17,12 @@ See instructions. Delete this line and place your Product Vision Statement here.
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
+Peter D'Angelo
 
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+Peter D'Angelo
 
 ## Clickable Prototype
 
