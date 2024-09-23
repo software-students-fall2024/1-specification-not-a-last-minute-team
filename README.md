@@ -39,6 +39,8 @@ Peter D'Angelo and Joseph Cheng
 ## Activity Diagrams
 
 (image.png)(image-1.png)
+<img width="1099" alt="image" src="https://github.com/user-attachments/assets/047508a0-c668-4a36-8b96-cdd26a6365d3">
+
 Peter D'Angelo and Jack Zhang
 
 ## Clickable Prototype
