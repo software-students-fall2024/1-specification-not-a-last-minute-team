@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Darren Zou, Peter D'Angelo, Jack Zhang, Gene Park, and Joseph Chege
+- [Darren Zou](https://github.com/darrenzou)
+- [Peter D'Angelo](https://github.com/dangelo729)
+- [Jack Zhang](https://github.com/yz6973)
+- [Gene Park](https://github.com/geneparkmcs)
+- [Joseph Chege](https://github.com/JosephChege4)
 
 ## Stakeholders
 
@@ -24,11 +28,11 @@ Darren Zou, Peter D'Angelo, Jack Zhang, Gene Park, and Joseph Chege
 
 ### Stakeholder 2: Amber, friend of Joseph
 
-#### Goals/Needs/Desires:
+#### Goals:
 - A filtration system for the catalog
 - A list of currently checked-out books
 
-#### Problems/Frustrations:
+#### Problems:
 - Lack of personalization in the catalog (e.g., no account system or list of checked-out books)
 
 ## Product Vision Statement
@@ -43,7 +47,7 @@ Our vision is to create a user-friendly library catalogue app that empowers user
 
 “As a person who has trouble locating books, I want an easy way to find the location of books so that I can expedite my library visit.”
 
-“As a person who often goes to the library in search of a book, only to find that the book is already checked out, I want an easy way to reliably see if a book is in the library so that I waste less time on unnecessary library trips”  
+“As a person who often goes to the library in search of a book, only to find that the book is already checked out, I want an easy way to reliably see if a book is in the library so that I waste less time on unnecessary library trips”
 
 “As a person who often forgets to return books, I want an easy way to keep track of my book due dates so that I don’t rack up late fees”
 
