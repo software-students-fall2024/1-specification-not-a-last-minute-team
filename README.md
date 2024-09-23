@@ -20,7 +20,7 @@ As a student, I want to search for books by title, author, or subject so that I 
 
 As a student, I want to see real-time availability of books so that I know whether a book is currently available or checked out before going to the library.
 
-As a student, I want to view a list of all the books I’ve currently checked out so that I can keep track of what I need to return and when.
+As a student, I want to view a list of all the books I’ve currently checked out so that I can keep track of what I need to return and when
 
 As a student, I want to renew my borrowed books through the app so that I can extend the due date without having to visit the library in person.
 
